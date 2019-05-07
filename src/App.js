@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import './App.css';
 import Validation from './Validation/Validation';
+import Char from './Char/Char';
+
 
 class App extends Component {
 
